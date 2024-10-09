@@ -1,0 +1,518 @@
+nome,endereco,latitude,longitude,cidade
+Shopping Vila Olímpia,"R. Olimpíadas, 360 - Vila Olímpia, São Paulo",-23.5954524,-46.6865941,São Vicente
+Iguatemi Shopping,"Av. Brig. Faria Lima, 2232 - Jardim Paulistano, São Paulo",-23.5770446,-46.6881912,São Vicente
+Shopping Anália Franco,"Av. Reg. Feijó, 1739 - Tatuapé, São Paulo",-23.5614365,-46.5604301,São Vicente
+Shopping Metrô Itaquera,"Av. José Pinheiro Borges - Itaquera, São Paulo",-23.5405621,-46.4706432,São Vicente
+Jardim Pamplona Shopping,"R. Pamplona, 1704 - Jardim Paulista, São Paulo",-23.5703849,-46.6614179,São Vicente
+Shopping Cidade São Paulo,"Av. Paulista, 1230 - Bela Vista, São Paulo",-23.563522,-46.6526872,São Vicente
+Morumbi Shopping,"Av. Roque Petroni Júnior, 1089 - Jardim das Acacias, São Paulo",-23.6233618,-46.6988352,São Vicente
+Shopping Center Norte,"Av. Otto Baumgart, 245 - Vila Guilherme, São Paulo",-23.5153886,-46.61780419999999,Mauá
+Mooca Plaza Shopping,"R. Cap. Pacheco e Chaves, 313 - Vila Prudente, São Paulo",-23.5798907,-46.5946797,São Vicente
+Grand Plaza Shopping,"Av. Industrial, 600 - Centro, Santo André",-23.6487368,-46.5320388,São Vicente
+São Bernardo Plaza Shopping,"Av. Rotary, 624 - Centro, São Bernardo do Campo",-23.7232218,-46.543195,São Vicente
+Shopping West Plaza,"Água Branca, São Paulo",-23.5271065,-46.6744199,São Vicente
+Internacional Shopping Guarulhos,"Rod. Pres. Dutra, 225 - Vila Itapegica, Guarulhos",-23.4881295,-46.5491937,Mauá
+Shopping Light,"R. Cel. Xavier de Toledo, 23 - República, São Paulo",-23.546459,-46.6388691,São Vicente
+Frei Caneca Mall,"R. Frei Caneca, 569 - Consolação, São Paulo",-23.554048,-46.6526753,São Vicente
+Shopping Market Place,"Av. Dr. Chucri Zaidan, 902 - Vila Cordeiro, São Paulo",-23.6215583,-46.6998137,São Vicente
+Shopping Center 3,"Avenida Paulista, 2064 Rua Augusta, 1611 Rua Luis Coelho, 91, Av. Paulista, 2064 - Cerqueira César, São Paulo",-23.5582918,-46.6594973,Mauá
+Shopping Nações Unidas,"Av. das Nações Unidas, 12901 - Brooklin, São Paulo",-23.610529,-46.6971812,Osasco
+Shopping Cidade Copacabana,"Copacabana, Rio de Janeiro",-22.9661486,-43.1879887,São João de Meriti
+Botafogo Praia Shopping,"Praia de Botafogo, 400 - Botafogo, Rio de Janeiro",-22.9474645,-43.1827333,São João de Meriti
+Bangu Shopping,"R. Fonseca, 240 - Bangu, Rio de Janeiro",-22.8786888,-43.4665869,São João de Meriti
+VillageMall,"Av. das Américas, 3900 - Barra da Tijuca, Rio de Janeiro",-22.9993406,-43.3515489,São João de Meriti
+Top Shopping Nova Iguaçu,"Av. Gov. Roberto Silveira, 540 - Centro, Nova Iguaçu",-22.7525729,-43.4542088,São João de Meriti
+West Shopping,"Estr. do Mendanha, 555 - Campo Grande, Rio de Janeiro",-22.8844836,-43.5576059,São João de Meriti
+Shopping Cassino Atlântico,"Av. Atlântica, 4240 - Copacabana, Rio de Janeiro",-22.9864681,-43.1895148,São João de Meriti
+Carioca Shopping,"Av. Vicente de Carvalho, 909 - Vila da Penha, Rio de Janeiro",-22.8499687,-43.3110186,São João de Meriti
+Shopping Leblon,"Av. Afrânio de Melo Franco, 290 - Leblon, Rio de Janeiro",-22.9824704,-43.2168792,São João de Meriti
+Américas Shopping,"Av. das Américas, 15500 - Recreio dos Bandeirantes, Rio de Janeiro",-23.0114255,-43.4612586,São João de Meriti
+ParkShoppingCampoGrande,"Estr. do Monteiro, 1200 - Campo Grande, Rio de Janeiro",-22.9280262,-43.5740948,São João de Meriti
+Shopping Bay Market,"Av. Visconde do Rio Branco, 360 - Centro, Niterói",-22.891903,-43.1245316,São João de Meriti
+Bossa Nova Mall,"Av. Alm. Silvio de Noronha, 365 - Centro, Rio de Janeiro",-22.914003,-43.1670093,São João de Meriti
+Plaza Shopping,"Rua Quinze de Novembro, 8 - Centro, Niterói",-22.8964615,-43.1239271,São João de Meriti
+Shopping Tijuca,"Av. Maracanã, 987 - Tijuca, Rio de Janeiro",-22.9219678,-43.2352235,São João de Meriti
+Shopping RioSul,"Rua Lauro Müller, 116 - Botafogo, Rio de Janeiro",-22.9569798,-43.1768217,Belford Roxo
+Terraço Shopping,"SHC AOS Entrequadras 2/8 lote 5, Octogonal - Sul, Brasília",-15.8035862,-47.9403387,Brasília
+Taguatinga Shopping,"QS 01 Lote 40 - Taguatinga, Brasília",-15.8414538,-48.0440106,Brasília
+ParkShopping,"SMAS Trecho 1 - Guará, Brasília",-15.8338103,-47.9548795,Brasília
+Shopping Conjunto Nacional,"SDN, CNB - Asa Norte, Brasília",-15.791281,-47.883178,Brasília
+Brasília Shopping,"SCN Quadra 05 BL A - Asa Norte, Brasília",-15.7866495,-47.889259,Brasília
+JK Shopping,"St. M-Norte QNM 34 - Taguatinga, Brasília",-15.8097603,-48.093851,Brasília
+Boulevard Shopping Brasília,"Setor Terminal Norte, Conj J - Asa Norte, Brasília",-15.7337382,-47.8992251,Brasília
+Venâncio Shopping,"Setor Comercial Sul Q. 6 Quadra 8 - Asa Sul, Brasília",-15.7960123,-47.8929228,Brasília
+Shopping Sul,"BR-040 - Parque Esplanada III, Valparaíso de Goiás",-16.0787485,-47.9842818,Brasília
+Alameda Shopping,"CSB 02, Lotes 01/04 - Taguatinga, Brasília",-15.8360492,-48.0566723,Brasília
+Liberty Mall,"SCN Q 2 Bloco D - Asa Norte, Brasília",-15.786818,-47.884587,Brasília
+DF Plaza Shopping,"R. Copaíba, lote 01 - Águas Claras, Brasília",-15.8317075,-48.0413454,Brasília
+Shopping Pier 21,"St. de Clubes Esportivos Sul Trecho 2 - Asa Sul, Brasília",-15.8183729,-47.8746107,Brasília
+Pátio Brasil Shopping,"Setor Comercial Sul Q. 6 - Asa Sul, Brasília",-15.7960346,-47.8920091,Brasília
+Plaza Mall,"Q. 301 - Águas Claras, Brasília",-15.8315586,-48.017501,Brasília
+One Park Mall,"R. das Paineiras, Lote 06 - Norte - Águas Claras, Brasília",-15.8380955,-48.03280549999999,Brasília
+Santa Maria Shopping,"CL 114 Bloco D - Santa Maria Norte, Brasília",-16.006116,-48.0006914,Brasília
+Park Mall,"Avenida das Castanheiras, s/nº - Águas Claras, Brasília",-15.8345604,-48.0088632,Brasília
+Águas Lindas Shopping,"Av. Santa Luzia - Mansões Centroeste, Águas Lindas de Goiás",-15.735514,-48.2741702,Brasília
+Shopping Center Lapa,"R. Portão da Piedade, 155 - Dois de Julho, Salvador",-12.9831679,-38.5138367,Salvador
+Shopping Paralela,"Av. Luís Viana Filho, 8544 - Alphaville, Salvador",-12.9365263,-38.3949236,Salvador
+Shopping Barra,"Av. Centenário, 2992 - Chame-Chame, Salvador",-13.0058233,-38.5239368,Salvador
+Salvador Shopping,"Av. Tancredo Neves, 3133 - Caminho das Árvores, Salvador",-12.9778603,-38.455251,Salvador
+Shopping Piedade,"Rua Conselheiro Junqueira Ayres, 165 - Dois de Julho, Salvador",-12.9835518,-38.5130701,Salvador
+Shopping Itaigara,"Av. Antônio Carlos Magalhães, 656 - Itaigara, Salvador",-12.9967752,-38.463857,Salvador
+Shopping Bela Vista,"Alameda Euvaldo Luz, 92 - Horto Bela Vista, Salvador",-12.9699536,-38.4746357,Salvador
+Salvador Norte Shopping,"BA-526, 305 - São Cristóvão, Salvador",-12.9083785,-38.3513333,Salvador
+Tropical Shopping,"Alameda Dilson Jatahy Fonseca, 30 - Stella Maris, Salvador",-12.9390369,-38.3419104,Salvador
+Stella Mall,"Alameda Dilson Jatahy Fonseca, 521-603 - Stella Maris, Salvador",-12.9391852,-38.3422759,Salvador
+Shopping Cidade,"Av. Antônio Carlos Magalhães, 1298 - Itaigara, Salvador",-12.9956307,-38.46917639999999,Salvador
+Shopping da Bahia,"Av. Tancredo Neves, 148 - Caminho das Árvores, Salvador",-12.9812172,-38.4649511,Salvador
+Shopping Paseo Itaigara,"Rua Rubens Guelli, 135 - Itaigara, Salvador",-12.9954358,-38.471113,Salvador
+Boulevard Shopping Camaçari,"BA-535, s/nº - Industrial, Camaçari",-12.7119484,-38.3057508,Salvador
+Shopping Liberdade,"Estr. da Liberdade, 405 - Liberdade, Salvador",-12.9518961,-38.4995256,Salvador
+Villa Norte Shopping,"Av. Luiz Tarquínio Pontes, 2899 - Vilas do Atlântico, Lauro de Freitas",-12.875485,-38.3054302,Salvador
+Shopping Apipema Center - Garden Apipema,"Rua Professor Sabino Silva, 836 Apipema Center - Jardim Apipema, Salvador",-13.0060968,-38.5181897,Salvador
+Shopping Vasco da Gama,"Av. Vasco da Gama, 2335 - Engenho Velho de Brotas, Salvador",-12.9900936,-38.5033388,Salvador
+"Shopping Benfica: Lojas, Cinema, Restaurantes, Supermercado, Benfica Fortaleza","R. Carapinima, 2200 - Benfica, Fortaleza",-3.7390903,-38.5402134,Fortaleza
+Shopping Rio Mar Fortaleza,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza",-3.7418185,-38.4702255,Fortaleza
+North Shopping Jóquei,"Av. Lineu Machado, 419 - Jóquei Clube, Fortaleza",-3.764657199999999,-38.57461929999999,Fortaleza
+Shopping Parangaba,"Rua Germano Franck, 300 - Parangaba, Fortaleza",-3.7756994,-38.5620002,Fortaleza
+Shopping Aldeota,"Av. Dom Luís, 500 - Aldeota, Fortaleza",-3.7336305,-38.4968134,Fortaleza
+Via Sul Shopping,"Av. Washington Soares, 4335 - Lagoa Sapiranga (Coité), Fortaleza",-3.7946075,-38.4795714,Fortaleza
+Grand Shopping,"Av. Frei Cirilo, 3840 - Messejana, Fortaleza",-3.8180754,-38.4973158,Fortaleza
+North Shopping Fortaleza,"Av. Bezerra de Menezes, 2450 - Pres. Kennedy, Fortaleza",-3.7350579,-38.5660305,Fortaleza
+Reserva Open Mall,"Av. Washington Soares, 3000 - Eng. Luciano Cavalcante, Fortaleza",-3.7837678,-38.48212789999999,Fortaleza
+Shopping Del Paseo,"Av. Santos Dumont, 3131 - Aldeota, Fortaleza",-3.736222999999999,-38.49675999999999,Fortaleza
+Shopping Jardins Open Mall,"Av. Des. Moreira, 1011 - Aldeota, Fortaleza",-3.7349237,-38.4974725,Fortaleza
+Iandê Shopping Caucaia,"Av. Edson da Mota Correa, 620 - Centro, Caucaia",-3.7340476,-38.6559035,Fortaleza
+Salinas Casa Shopping,"Av. Washington Soares, 909 - Edson Queiroz, Fortaleza",-3.762288299999999,-38.4822996,Fortaleza
+Shopping Buena Vista,"Av. Washington Soares, 1500 - Edson Queiroz, Fortaleza",-3.772219,-38.4829097,Fortaleza
+Shopping Center Um,"Av. Santos Dumont, 3130 - Aldeota, Fortaleza",-3.7373679,-38.4974441,Fortaleza
+Buena Vista Open Mall,"Shopping Buena Vista, Av. Washington Soares, 1500 - Edson Queiroz, Fortaleza",-3.7719817,-38.4824872,Fortaleza
+Shopping Eusébio,"Av. Eusébio de Queiroz, 1890 - Tamatanduba, Eusébio",-3.8715671,-38.4666,Fortaleza
+Cambeba Mall,"Av. Ministro José Américo, 660 - Cambeba, Fortaleza",-3.8107264,-38.4938729,Fortaleza
+Boulevard Shopping Belo Horizonte,"Av. dos Andradas, 3000 - Santa Efigênia, Belo Horizonte",-19.9206819,-43.9201173,Contagem
+DiamondMall,"Av. Olegário Maciel, 1600 - Santo Agostinho, Belo Horizonte",-19.9279851,-43.9474041,Contagem
+Viashopping,"Av. Afonso Vaz de Melo, 640 - Barreiro, Belo Horizonte",-19.9750368,-44.02002280000001,Contagem
+Shopping Estação BH,"Av. Cristiano Machado, 11833 - Vila Cloris, Belo Horizonte",-19.8206744,-43.9462932,Contagem
+Shopping Del Rey,"Av. Presidente Carlos Luz, 3001 - Pampulha, Belo Horizonte",-19.8905556,-43.9680556,Contagem
+Shopping Cidade,"Rua dos Tupis, 337 - Centro, Belo Horizonte",-19.9217918,-43.9401273,Contagem
+Minas Shopping,"Av. Cristiano Machado, 4000 - União, Belo Horizonte",-19.8747536,-43.9262403,Contagem
+Shopping Contagem,"Av. Severino Ballesteros, 850 - Cabral, Contagem",-19.8805258,-44.0382207,Contagem
+BH Shopping,"BR-356, 3049 - Belvedere, Belo Horizonte",-19.974579,-43.9438894,Contagem
+Partage Shopping Betim,"Rod. Fernão Dias, 601 - Km 492 - São João, Betim",-19.962522,-44.160472,Contagem
+Centerminas Mall,"Av. Pastor Anselmo Silvestre, 1495 - União, Belo Horizonte",-19.874947,-43.9231452,Contagem
+Gutierrez Mall,"Rua André Cavalcanti, 211 - 235 - Gutierrez, Belo Horizonte",-19.9334401,-43.9568045,Contagem
+Central Park Shopping & Residence,"R. Úrsula Paulino, 1321 - Betânia, Belo Horizonte",-19.9596068,-43.9868611,Contagem
+Shopping Oiapoque,"Av. Oiapoque, 156 - Centro, Belo Horizonte",-19.9132561,-43.9392743,Contagem
+ItaúPower Shopping,"Av. General David Sarnoff, 5160 - Cidade Industrial, Contagem",-19.9468559,-44.0224559,Contagem
+Monte Carmo Shopping,"Av. Juiz Marco Túlio Isaac, 1119 - Ingá Alto, Betim",-19.9581776,-44.1908213,Contagem
+Shopping cidade,"Rua dos Goitacazes, 326 - Centro, Belo Horizonte",-19.9225893,-43.94001859999999,Contagem
+5th Avenue Shopping Mall,"R. Alagoas, 1314 - Savassi, Belo Horizonte",-19.9384117,-43.9371948,Contagem
+Amazonas Shopping Center,"Av. Djalma Batista, 482 - Parque 10 de Novembro, Manaus",-3.0941363,-60.02269459999999,Manaus
+Millennium Shopping,"Av. Djalma Batista, 1661 - Chapada, Manaus",-3.1009803,-60.0244901,Manaus
+Ponta Negra Shopping,"Av. Coronel Teixeira, 5705 - Ponta Negra, Manaus",-3.0846448,-60.07241639999999,Manaus
+Shopping Grande Circular,"Av. Autaz Mirim, 6100 - São José Operário, Manaus",-3.063254,-59.95034130000001,Manaus
+Sumaúma Park Shopping,"Av. Noel Nutels, 1762 - Cidade Nova, Manaus",-3.0302756,-59.97812299999999,Manaus
+Manaus Plaza Shopping & Centro de Convenções,"Av. Djalma Batista, 2100 - Chapada, Manaus",-3.0974689,-60.02329029999999,Manaus
+Shopping Manaus ViaNorte,"Avenida Arquiteto José Henrique Bento Rodrigues, 3760 - Monte das Oliveiras, Manaus",-3.0000536,-60.0019828,Manaus
+Manauara Shopping,"Av. Mário Ypiranga, 1300 - Adrianópolis, Manaus",-3.1043615,-60.01194890000001,Manaus
+Park Mall Ephigênio,"Av. Efigênio Salles, 2045 - Aleixo, Manaus",-3.0901199,-59.9921529,Manaus
+Sollarium Mall,"R. Barão de Indaiá, 54 - Flores, Manaus",-3.067497,-60.0153111,Manaus
+MARGARITA Mall,"Av. Margarita, 1984 - Cj - Cidade Nova, Manaus",-3.0057472,-59.9754307,Manaus
+Shopping Parque 10 Mall,"Av. Tancredo Neves, 645 - Parque 10 de Novembro, Manaus",-3.0721188,-60.0073044,Manaus
+Shopping Cidade Leste,"Av. Autaz Mirim, 282 - Tancredo Neves, Manaus",-3.0479786,-59.9442581,Manaus
+Arena Mall,"2673, Av. Pedro Teixeira, 2421 - Dom Pedro, Manaus",-3.0853389,-60.02600100000001,Manaus
+Dubai Shopping Center,"Av. Eduardo Ribeiro, 457 - Centro, Manaus",-3.1333079,-60.0242999,Manaus
+Salvador Mall Manaus,"R. Salvador, 449 - Adrianópolis, Manaus",-3.1079041,-60.01055789999999,Manaus
+Shopping Mueller,"Av. Cândido de Abreu, 127 - Centro Cívico, Curitiba",-25.423456,-49.2702259,Curitiba
+Palladium Shopping Center,"Av. Pres. Kennedy, 4121 - Portão, Curitiba",-25.477753,-49.2909558,Curitiba
+Shopping Jardim das Américas,"Av. Nossa Sra. de Lourdes, 63 - Jardim das Américas, Curitiba",-25.4514052,-49.228494,Curitiba
+Shopping Curitiba,"R. Brg. Franco, 2300 - Centro, Curitiba",-25.4409894,-49.2773706,Curitiba
+Cidade Shopping,"Av. Mal. Floriano Peixoto, 4984 - Hauer, Curitiba",-25.4725027,-49.2523856,Curitiba
+Jockey Plaza Shopping,"R. Konrad Adenauer, 370 - Tarumã, Curitiba",-25.4277333,-49.2150244,Curitiba
+Shopping Estação,"Av. Sete de Setembro, 2775 - Rebouças, Curitiba",-25.4381598,-49.2673983,Curitiba
+ParkShopping Barigui,"R. Prof. Pedro Viriato Parigot de Souza, 600 - Mossunguê, Curitiba",-25.4356396,-49.3177411,Curitiba
+Express Mall JK,"Av. Juscelino Kubitschek De Oliveira - Ld, 2211 - Cidade Industrial de Curitiba, Curitiba",-25.451875,-49.3614205,Curitiba
+Ventura Shopping,"R. Itacolomi, 292 - Portão, Curitiba",-25.4789071,-49.2951769,Curitiba
+Shopping Itália,"R. Mal. Deodoro, 630 - Centro, Curitiba",-25.4302701,-49.2662489,Curitiba
+Alto da XV Mall,"R. Camões, 601 - Alto da XV, Curitiba",-25.4252445,-49.2476302,Curitiba
+Shopping Estação,"R. Rockefeller, 1450 - Rebouças, Curitiba",-25.4380876,-49.2654749,Curitiba
+Express Mall Ucrânia,"R. Marcelino Champagnat, 779 - Mercês, Curitiba",-25.428985,-49.2938651,Curitiba
+Shopping Crystal,"R. Comendador Araújo, 731 - Batel, Curitiba",-25.4390991,-49.2812969,Curitiba
+Shopping Novo Batel,"R. Cel. Dulcídio, 517 - Batel, Curitiba",-25.4383786,-49.2836437,Curitiba
+Shopping Pátio Batel,"Av. do Batel, 1868 - Batel, Curitiba",-25.4429295,-49.2908133,Curitiba
+Street Mall 376,"Rod. Br 376, 1965 - Cruzeiro, São José dos Pinhais",-25.5392055,-49.1913697,Curitiba
+Colombo Park Shopping,"R. Dorval Ceccon, 664 - Jardim Nossa Sra. de Fatima, Colombo",-25.360724,-49.184093,Curitiba
+Express Mall Champagnat,"R. Martim Afonso, 2910 - Bigorrilho, Curitiba",-25.4358596,-49.30514520000001,Curitiba
+Building Parking Shopping Boa Vista,"R. do Giriquiti, 48 - Boa Vista, Recife",-8.0596141,-34.8870462,Jaboatão dos Guararapes
+Paulista North Way Shopping,"Rodovia 15 - KM 16,5, nº242 - Centro, Paulista",-7.9383233,-34.8775792,Jaboatão dos Guararapes
+Shopping Recife,"R. Padre Carapuceiro, 777 - Boa Viagem, Recife",-8.1190456,-34.9046689,Jaboatão dos Guararapes
+Shopping Tacaruna,"Shopping Tacaruna - Av. Gov. Agamenon Magalhães, 153 - Santo Amaro, Recife",-8.0380567,-34.8717367,Jaboatão dos Guararapes
+Shopping Guararapes,"Av. Barreto de Menezes, 800 - Piedade, Jaboatão dos Guararapes",-8.168335899999999,-34.9192099,Jaboatão dos Guararapes
+The Garden Open Mall,"Av. Bernardo Vieira de Melo, 209 - Piedade, Jaboatão dos Guararapes",-8.1609987,-34.9129097,Jaboatão dos Guararapes
+Paço Alfândega - Office e Mall,"R. Alfândega, 35 - Recife",-8.0648441,-34.8738319,Jaboatão dos Guararapes
+Boulevard Mall,"Estr. de Aldeia, 9036 - Vera Cruz, Camaragibe",-7.961923899999999,-35.00836880000001,Jaboatão dos Guararapes
+Camará Shopping,"R. Manoel Hónorato da Costa, 555 - Vila da Fabrica, Camaragibe",-8.0163327,-34.9775849,Jaboatão dos Guararapes
+Shopping Patteo Olinda,"R. Carmelita Muniz de Araújo, 225 - Casa Caiada, Olinda",-7.993477899999999,-34.8402871,Jaboatão dos Guararapes
+Market place shopping,"Av. Bernardo Vieira de Melo, 1650 - Piedade, Jaboatão dos Guararapes",-8.1681314,-34.9154268,Jaboatão dos Guararapes
+Shopping Yapoatan Center,"R. Bernardo Viêira de Melo, 14 - Centro, Jaboatão dos Guararapes",-8.113004,-35.0201318,Recife
+Shopping ETC,"Av. Conselheiro Rosa e Silva, 1460 - Aflitos, Recife",-8.0389413,-34.8997768,Recife
+Shopping Costa Dourada,"PE-060, 3200 - Garapu, Cabo de Santo Agostinho",-8.305774399999999,-35.0221654,Jaboatão dos Guararapes
+Vitória Park Shopping,"Av. Henrique de Holanda, 3000 - Redenção, Vitória de Santo Antão",-8.1160142,-35.2707964,Jaboatão dos Guararapes
+Espinheiro Shopping,"R. Amélia, 114 - Graças, Recife",-8.0454657,-34.8962296,Recife
+Bourbon Shopping Ipiranga,"Av. Ipiranga, 5200 - Jardim Botânico, Porto Alegre",-30.0549758,-51.1867176,Porto Alegre
+Shopping Iguatemi Porto Alegre,"Av. João Wallig, 1800 - Passo d'Areia, Porto Alegre",-30.0251223,-51.1624198,Porto Alegre
+Barra Shopping Sul,"Av. Diário de Notícias, 300 - Cristal, Porto Alegre",-30.0846697,-51.2458384,Porto Alegre
+Bourbon Shopping Wallig,"Av. Assis Brasil, 2611 - Cristo Redentor, Porto Alegre",-30.0111521,-51.1608281,Porto Alegre
+Praia de Belas Shopping,"Av. Praia de Belas, 1181 - Praia de Belas, Porto Alegre",-30.0495351,-51.2287325,Porto Alegre
+Canoas Shopping,"Av. Guilherme Schell, 6750 - Centro, Canoas",-29.9110603,-51.1821541,Porto Alegre
+Bourbon Shopping Assis Brasil,"Av. Assis Brasil, 164 - São João, Porto Alegre",-30.0062468,-51.1842183,Porto Alegre
+Shopping Total,"Av. Cristóvão Colombo, 545 - prédio 7 - Independência, Porto Alegre",-30.0264841,-51.2116208,Porto Alegre
+Shopping João Pessoa,"Av. João Pessoa, 1831 - Farroupilha, Porto Alegre",-30.0456868,-51.2132881,Porto Alegre
+Bourbon Shopping Country,"Av. Túlio de Rose, 80 - Passo d'Areia, Porto Alegre",-30.0218087,-51.1625287,Porto Alegre
+ParkShopping Canoas,"Av. Farroupilha, 4545 - Mal. Rondon, Canoas",-29.9157533,-51.16484519999999,Porto Alegre
+Bourbon Shopping São Leopoldo,"R. Primeiro de Março, 821 - Centro, São Leopoldo",-29.7693473,-51.1459485,Porto Alegre
+Moinhos Shopping,"R. Olávo Barreto Viana, 36 - Moinhos de Vento, Porto Alegre",-30.0233231,-51.201122,Porto Alegre
+Viva Open Mall,"Av. Dr. Nilo Peçanha, 3228 - Chácara das Pedras, Porto Alegre",-30.0282326,-51.1579399,Porto Alegre
+Bourbon Shopping Novo Hamburgo,"Av. Nações Unidas, 2001 - Rio Branco, Novo Hamburgo",-29.6859183,-51.1340618,Porto Alegre
+Rua da Praia Shopping,"R. dos Andradas, 1001 - Centro Histórico, Porto Alegre",-30.0306671,-51.2315789,Porto Alegre
+Pontal Shopping,"Av. Padre Cacique, 2893 - Cristal, Porto Alegre",-30.0801445,-51.2473158,Porto Alegre
+DC Shopping,"R. Frederico Mentz, 1561, R. Voluntários da Pátria, 4389 - Navegantes, Porto Alegre",-29.9953756,-51.2044442,Porto Alegre
+Boulevard Shopping Belém,"Av. Visc. de Souza Franco, 776 - Reduto, Belém",-1.445746,-48.48905569999999,Ananindeua
+Shopping Bosque Grão-Pará,"Av. Centenário, 1052 - Mangueirão, Belém",-1.3902486,-48.4650835,Ananindeua
+Shopping Pátio Belém,"Tv. Padre Eutíquio, 1078 - Batista Campos, Belém",-1.4578538,-48.49465379999999,Ananindeua
+Castanheira Mall,"BR-316, Km 01 - Castanheira, Belém",-1.403391,-48.4305277,Ananindeua
+Metrópole Ananindeua Mall,"Rodovia BR 316, nº 4.500, Km 04 - Coqueiro, Ananindeua",-1.3854989,-48.4093577,Ananindeua
+Small Shopping,"Av. Cmte. Brás de Aguiar, 451 - Batista Campos, Belém",-1.4545791,-48.4879031,Ananindeua
+Center Shopping,"Tv. Padre Eutíquio, 281 - Comércio, Belém",-1.4531633,-48.5005137,Ananindeua
+Shopping Center Popular João Alfredo,"R. Conselheiro João Alfredo, 236 - Campina, Belém",-1.4524992,-48.501212,Ananindeua
+Gritt-Shopping Iguatemi,"Tv. Padre Eutíquio, 1078 - Campina, Belém",-1.4578588,-48.4951482,Belém
+Smart Mall,"Tv. Humaitá, 1377 - Pedreira, Belém",-1.4358183,-48.47064109999999,Ananindeua
+Shopping São Brás,"Av. Alm. Barroso, N° 71 - São Brás, Belém",-1.4474512,-48.4662301,Ananindeua
+Golden Shopping,"Avenida: Comandante Brás De Aguiar, 492 Loja 17 Golden Shopping - Nazaré, Belém",-1.4548156,-48.4874059,Ananindeua
+Shopping João Alfredo centro de compras,"comércio Rua Conselheiro João Alfredo n°236 / corredor B, Box 10 - Campina, Belém",-1.4525425,-48.5012708,Belém
+Flamboyant Shopping Center,"Av. Dep. Jamel Cecílio, 3300 - Jardim Goiás, Goiânia",-16.7102509,-49.2370077,Aparecida de Goiânia
+Passeio das Águas Shopping,"Av. Perimetral Norte, 8303 - Fazenda Caveiras, Goiânia",-16.6295282,-49.278692,Aparecida de Goiânia
+Goiânia Shopping,"Av. T-10, 1300 - St. Bueno, Goiânia",-16.7083507,-49.272809,Aparecida de Goiânia
+Araguaia Shopping,"R. 44, 399 - St. Central, Goiânia",-16.6594981,-49.2596923,Aparecida de Goiânia
+Shopping Cerrado,"Av. Anhanguera, 10790 - Aeroviario, Goiânia",-16.6663008,-49.3084551,Aparecida de Goiânia
+Shopping Cidade Jardim,"Av. Nero Macedo, 400 - Cidade Jardim, Goiânia",-16.6829171,-49.3140904,Aparecida de Goiânia
+Shopping Estação Goiânia,"Av. Goiás, 2151 - Centro, Goiânia",-16.6613126,-49.26186329999999,Aparecida de Goiânia
+Metropolitan Mall,"Av. Dep. Jamel Cecílio, 2690 - Jardim Goiás, Goiânia",-16.7048658,-49.2413554,Aparecida de Goiânia
+Buriti Shopping,"Av. Rio Verde, Qd 102/104 - Vila Sao Tomaz, Aparecida de Goiânia",-16.7419767,-49.2770112,Aparecida de Goiânia
+Aparecida Shopping,"Av. Independência - Quadra Área - Lote 01 - S/N - Setor Serra Dourada 3ª Etapa, Aparecida de Goiânia",-16.8232248,-49.2514464,Aparecida de Goiânia
+Portal Shopping,"Av. Anhanguera, 14404 - Capuava, Goiânia",-16.6542534,-49.32938350000001,Aparecida de Goiânia
+Shopping Bougainville,"R. 9, 1855 - St. Marista, Goiânia",-16.6955456,-49.2654278,Aparecida de Goiânia
+Brasil Park Shopping,"Av. Brasil Norte, 505 - Centro, Anápolis",-16.3242458,-48.9489555,Goiânia
+Plaza D'oro Shopping,"Shopping Plaza D'oro, Av. Nápoli, 500 - Res. Eldorado, Goiânia",-16.7074411,-49.3281099,Aparecida de Goiânia
+Buena Vista Shopping,"Av. T-4, 466 - St. Bueno, Goiânia",-16.7105762,-49.2677901,Aparecida de Goiânia
+Plural Street Mall,"Av. dos Alpes - Jardim Europa, Goiânia",-16.7110495,-49.3139151,Aparecida de Goiânia
+Portal Sul Shopping,"GO-040 - Jardins Lisboa, Goiânia",-16.7707041,-49.3518619,Aparecida de Goiânia
+Marista Center Mall,"Av. 85, 1760 - St. Marista, Goiânia",-16.6971188,-49.2650193,Aparecida de Goiânia
+Alpha Mall,"Av. Alphaville Flamboyant - Res. Alphaville Flamboyant, Goiânia",-16.7142973,-49.2014082,Aparecida de Goiânia
+Shopping Perimetral Open Mall,"Av. Perimetral Norte n. 3673 Shopping Perimetral Open Mall - St. Vila João Vaz, Goiânia",-16.6438007,-49.3078181,Aparecida de Goiânia
+Shopping Ibirapuera,"Av. Ibirapuera, 3103 - Indianópolis, São Paulo",-23.6104933,-46.6659844,São Vicente
+Shopping Iguatemi Campinas,"Av. Iguatemi, 777 - Vila Brandina, Campinas",-22.8926428,-47.02726759999999,Campinas
+Campinas Shopping,"R. Jacy Teixeira de Camargo, 940 - Jardim do Lago, Campinas",-22.9318768,-47.0767617,Campinas
+Galleria Shopping,"Av. Bailarina Selma Parada, s/n - Jardim Nilópolis, Campinas",-22.8634858,-47.02330240000001,Campinas
+Shopping Parque Dom Pedro,"Av. Guilherme Campos, 500 - Jardim Santa Genebra, Campinas",-22.8475663,-47.06310449999999,Campinas
+Unimart Shopping Campinas,"Av. Império do Sol Nascente, 350 - Chácara da República, Campinas",-22.908659,-47.0949147,Campinas
+Limeira Shopping,"Av. Carlos Kuntz Busch, 800 - Parque Egisto Ragazzo, Limeira",-22.5333,-47.3859,Campinas
+Shopping Parque das Bandeiras,"Av. John Boyd Dunlop, 3900 - Jardim Ipaussurama, Campinas",-22.9253008,-47.1274568,Campinas
+Maxi Shopping,"Av. Antonio Frederico Ozanan, 6000 - Vila Rio Branco, Jundiaí",-23.1693954,-46.8917292,Campinas
+JundiaíShopping,"Av. 9 de Julho, 3333 - Anhangabaú, Jundiaí",-23.1991964,-46.8903755,Campinas
+Shopping Prado Boulevard,"Av. Washington Luiz, 2.480 - Parque Prado, Campinas",-22.9376536,-47.0495992,Campinas
+Parque Mall,"R. das Primaveras, 1050 - Jardim Pompeia, Indaiatuba",-23.096041,-47.2229748,Sorocaba
+Shopping ParkCity Sumaré,"Av. Rebouças, 3400 - Jardim Paulista, Sumaré",-22.8305694,-47.2661611,Campinas
+Tivoli Shopping,"R. do Ósmio, 699 - Vila Mollon IV, Santa Bárbara d'Oeste",-22.7495641,-47.367782,Campinas
+Ventura Mall,"Av. Dr. Moraes Salles, 2790 - Nova Campinas, Campinas",-22.905905,-47.0382202,Campinas
+Shopping Conceição,"R. Conceição, 233 - Centro, Campinas",-22.9045162,-47.0572788,Campinas
+Platz Mall - O espaço mais completo de Sousas!,"Av. Dr. Antônio Carlos Couto de Barros, 475 - Vila Sônia (Sousas), Campinas",-22.8814842,-46.9702214,Campinas
+Plaza Shopping Itu,"Av. Dr. Ermelindo Maffei, 1199 - Jardim Paraiso, Itu",-23.2640094,-47.2806481,Sorocaba
+ITATIBA MALL,"Av. Pref. José Maurício de Camargo, 320 - Jardim Nossa Sra. das Gracas, Itatiba",-22.9901056,-46.8456135,Campinas
+The Mall,"Villa Bella - R. Rute Ferraz de Angelis, 886 - Lot. Res. Vila Bella, Campinas",-22.8558856,-47.0559832,Campinas
+Champs Mall,"Av. Ivan Loureiro, 4 - Ponta D'areia, São Luís",-2.5000095,-44.3124285,São Luís
+São Luís Shopping,"Av. Prof. Carlos Cunha, 1000 - Jaracaty, São Luís",-2.5107088,-44.28549779999999,São Luís
+La Ville Mall,"Península - Ponta D'areia, São Luís",-2.500203,-44.3108504,São Luís
+Rio Anil Shopping,"Av. São Luís Rei de França, 8 - Turu, São Luís",-2.5338163,-44.22479430000001,São Luís
+Tropical Shopping,"Av. Coronel Colares Moreira, 400 - Jardim Renascença, São Luís",-2.5012846,-44.2877446,São Luís
+Shopping Grande Center,"r 338, R. das Flôres, 250, São Luís",-2.5298669,-44.29972480000001,São Luís
+Shopping da Ilha,"Av. Daniel de La Touche, 987 - Cohama, São Luís",-2.5274136,-44.2553047,São Luís
+Shopping Jordoa,"367 - João Paulo, São Luís",-2.548539,-44.2656262,São Luís
+Shopping Rua Grande,"R. Oswaldo Cruz, no 767 - Centro, São Luís",-2.5306891,-44.2966249,São Luís
+Pátio Norte Shopping,"Estrada de São José de Ribamar, MA-201, Km-05 nº 1000 - Saramanta, São José de Ribamar",-2.5513366,-44.1924535,São Luís
+Praia Grande Shopping,"Av. dos Holandeses, 1 - Quintas do Calhau, São Luís",-2.4899481,-44.255063,São Luís
+Shopping Passeio,"Av. Contôrno Norte, 145 - Cohatrac IV, São Luís",-2.5345459,-44.1996797,São Luís
+Marajó Shopping,"Av. Guajajaras, 30 - Tirirical, São Luís",-2.5721974,-44.2347826,São Luís
+Lusitana Mall,"Av. Daniel de La Touche, 2800 - Cohama, São Luís",-2.5216389,-44.2501226,São Luís
+BarraShopping,"Av. das Américas, 4666 - Barra da Tijuca, Rio de Janeiro",-22.9976583,-43.3581268,São Gonçalo
+Fashion Mall,"Estr. da Gávea, 899 - São Conrado, Rio de Janeiro",-22.9964157,-43.2594305,São Gonçalo
+Parque Shopping Maceió,"Av. Comendador Gustavo Paiva, 5945 - Cruz das Almas, Maceió",-9.6274793,-35.6989387,Maceió
+Shopping Farol,"Av. Fernandes Lima, 2551 - Pinheiro, Maceió",-9.6279602,-35.7381973,Maceió
+Shopping Pátio Maceió,"Av. Menino Marcelo, 3800 - Cidade Universitária, Maceió",-9.5593611,-35.74600849999999,Maceió
+The Mall,"Av. Dr. José Sampaio Luz, 523 - Ponta Verde, Maceió",-9.6599746,-35.6998561,Maceió
+Shopping Jatiúca,"Av. João Davino, 321 - Mangabeiras, Maceió",-9.6435131,-35.7022513,Maceió
+Ortobom shopping cidade,"Av. Fernandes Lima, 679 - Shopping cidade, Maceió",-9.6447602,-35.73475579999999,Maceió
+Pajuçara Shopping,"R. Jangadeiros Alagoanos, 619 - Pajuçara, Maceió",-9.668764099999999,-35.7157453,Maceió
+Shopping Popular Nossa Senhora de Fátima,"Rua do Livramento - Centro de, Maceió",-9.6644834,-35.7415541,Maceió
+Shopping Miramar,"Av. Juca Sampaio, 2247 - Barro Duro, Maceió",-9.6265848,-35.7161429,Maceió
+Blue Shopping,"Av. Alm. Álvaro Calheiros, 342 - Jatiúca, Maceió",-9.645062399999999,-35.7028926,Maceió
+Shopping Rio Largo,"Tv. Srg. Aristeu Magalhães, 125 - Conj. Mutirao, Rio Largo",-9.4882995,-35.8536313,Maceió
+Midway Mall,"Av. Nevaldo Rocha, 3775 - Tirol, Natal",-5.8112867,-35.2062242,Natal
+Natal Shopping,"Avenida Senador Salgado Filho, 2234, Av. das Brancas Dunas, 47 - Candelária, Natal",-5.842104099999999,-35.2116708,Natal
+Via Direta Shopping,"Av. Sen. Salgado Filho, 2233 - Lagoa Nova, Natal",-5.840517999999999,-35.2095281,Natal
+Espacial Mall,"Av. Engenheiro Roberto Freire, 2020 - Capim Macio, Natal",-5.8577507,-35.1970768,Natal
+Partage Norte Shopping Natal,"Av. Dr. João Medeiros Filho, 2395 - Potengi, Natal",-5.7576551,-35.2471069,Natal
+Shop Mall Prudente,"Av. Prudente de Morais, 4178 - Lagoa Nova, Natal",-5.8186418,-35.2127823,Natal
+Cidade Jardim Shopping,"Av. Engenheiro Roberto Freire, 340 - Capim Macio, Natal",-5.851127099999999,-35.2055217,Natal
+Praia Shopping,"Av. Engenheiro Roberto Freire, 3132 - Capim Macio, Natal",-5.8658917,-35.1856317,Natal
+Shopping Center Mall,"Av. Brigadeiro Everaldo Breves, 90 - Centro, Parnamirim",-5.9166329,-35.2608345,Natal
+Labadee Mall,"Av. Ayrton Senna, 3134 - Neópolis, Natal",-5.8776683,-35.2020247,Natal
+Shopping Alecrim,"Av. Coronel Estevam, 1355 - Alecrim, Natal",-5.7970012,-35.21709269999999,Natal
+Shopping Seaway,"Av. Engenheiro Roberto Freire, 1962 - Capim Macio, Natal",-5.8600658,-35.1942082,Natal
+Tirol Shopping,"Av. Hermes da Fonseca, 1596 - Tirol, Natal",-5.8068497,-35.2032069,Natal
+BLACK MALL,"R. Mossoró, 603 - Tirol, Natal",-5.788231499999999,-35.198231,Natal
+Dão Silveira Mall | Lagoa Seca,"Dão Silveira Mall - Av. Prudente de Morais, 2700 - Lagoa Seca, Natal",-5.806096999999999,-35.2083943,Natal
+Shopping Natal Sul,"Av. Prudente de Morais, 3857 - Lagoa Nova, Natal",-5.816174999999999,-35.2111654,Natal
+Dunas Shopping,"Av. Engenheiro Roberto Freire, 2632 - Capim Macio, Natal",-5.8636177,-35.1891141,Natal
+Shopping,"Av. Nevaldo Rocha, 3709 - Divino Espírito Santo, Natal",-5.8112356,-35.2063138,Natal
+Shopping New Way Center,"Av. Dr. João Medeiros Filho, 5421 - Pajuçara, Natal",-5.746532999999999,-35.2259839,Natal
+Teresina Shopping,"Av. Raul Lopes, 1000 - Noivos, Teresina",-5.0854285,-42.7902659,Teresina
+Riverside Shopping,"Av. Ininga, 1201 - Jóquei, Teresina",-5.078609999999999,-42.7949117,Teresina
+Shopping Rio Poty,"Av. Mar. Castelo Branco, 911 - Porenquanto, Teresina",-5.076076,-42.8010893,Teresina
+Shopping da Cidade,"Av. Maranhão, 300 - Centro (Norte), Teresina",-5.091702499999999,-42.8185594,Teresina
+Cocais Shopping,"Av. Piauí, 700 - Centro, Timon",-5.091859899999999,-42.82428549999999,Teresina
+Grand Dirceu Shopping,"Av. Dep. Paulo Ferraz - Beira Rio, Teresina",-5.1079289,-42.7693036,Teresina
+Shopping Cidade Timon,"Av. Francisco Carlos Jansen - São Francisco, Timon",-5.0885497,-42.83543179999999,Teresina
+PRAIA DE VERÃO DO TERESINA SHOPPING,"Unnamed Road - Noivos, Teresina",-5.082938899999999,-42.7907757,Teresina
+Shopping São Franscisco,"R. Ana Raulino, 588-684 - Centro, Altos",-5.037459399999999,-42.4589039,Teresina
+Boulevard Shopping Dirceu,"Av. Dep. Paulo Ferraz, 1819 - Beira Rio, Teresina",-5.1090395,-42.7698584,Teresina
+Manaira Shopping,"R. Manoel Arruda Cavalcante, 805 - Manaíra, João Pessoa",-7.098869199999999,-34.8449749,João Pessoa
+Mag Shopping,"Av. Gov. Flávio Ribeiro Coutinho, 115 - Manaíra, João Pessoa",-7.0975234,-34.8345231,João Pessoa
+Mangabeira Shopping,"Av. Hilton Souto Maior, S/N - Mangabeira, João Pessoa",-7.162671699999999,-34.8306506,João Pessoa
+Liv Mall,"Av. Gov. Flávio Ribeiro Coutinho, 500 - Jardim Oceania, João Pessoa",-7.0969783,-34.8376672,João Pessoa
+Shopping Tambiá,"R. Dep. Odon Bezerra, 184 - Tambiá, João Pessoa",-7.116382799999999,-34.8798557,João Pessoa
+Parahyba Mall,"R. Bacharel José de Oliveira Curchatuz, 850 - Jardim Oceania, João Pessoa",-7.081107299999999,-34.8393403,João Pessoa
+Shopping Sul,"R. Bancário Sérgio Guerra, 900 - Anatólia, João Pessoa",-7.1489446,-34.8427117,João Pessoa
+Shopping Center Terceirão,"R. Duque de Caxias, 200 - Centro, João Pessoa",-7.1184044,-34.884015,João Pessoa
+Shopping Triunfo,"R. Treze de Maio - Centro, João Pessoa",-7.117361799999999,-34.8819831,João Pessoa
+Shopping Pátio Altiplano,"Avenida João Cirilo da Silva, 981 - Altiplano Cabo Branco, João Pessoa",-7.130117599999999,-34.8258254,João Pessoa
+Praia Shopping,"Av. Gov. Flávio Ribeiro Coutinho, 300 - Jardim Oceania, João Pessoa",-7.097144399999999,-34.8361535,João Pessoa
+Pirâmide Shopping Tambaú,"Av. Antônio Lira, 300 - Tambaú, João Pessoa",-7.1147014,-34.823821,João Pessoa
+Bessa Shopping,"Bessa Shopping - R. Francisco Leocádio Ribeiro Coutinho, 55 - Sala 106 - Aeroclube, João Pessoa",-7.0844229,-34.8402601,João Pessoa
+Shopping Cidade,"Praça João Pessoa, 105 - Centro, João Pessoa",-7.1209503,-34.8828154,João Pessoa
+Shopping Varadouro,"R. Maciel Pinheiro, 548 - Varadouro, João Pessoa",-7.118685399999999,-34.8895235,João Pessoa
+Shopping Moriah,"Av. Pres. Epitácio Pessoa, 2580 - Tambauzinho, João Pessoa",-7.1202165,-34.8470711,João Pessoa
+TECHNE MALL BRISAMAR,"R. Cassimiro de Abreu, 56 - Brisamar, João Pessoa",-7.1160228,-34.839435,João Pessoa
+Liber Mall,"Av. Liberdade, 3655 - Centro, Bayeux",-7.125823700000001,-34.9272608,João Pessoa
+Shopping Sebrae,"R. Joaquim Pires Ferreira - Estados, João Pessoa",-7.110911,-34.8557722,João Pessoa
+Shopping Cidade Jardim,"Av. Magalhães de Castro, 12.000 - Cidade Jardim, São Paulo",-23.5989077,-46.6976032,Osasco
+Pátio Paulista Mall,"R. Treze de Maio, 1947 - Bela Vista, São Paulo",-23.5707613,-46.6432203,Osasco
+Shopping Campo Grande,"Av. Afonso Pena, 4909 - Santa Fe, Campo Grande",-20.4577126,-54.58795,Campo Grande
+Shopping Norte Sul Plaza,"Av. Pres. Ernesto Geisel, 2300 - Jardim Joquei Club, Campo Grande",-20.4798677,-54.6267358,Campo Grande
+Shopping Bosque dos Ipês,"Av. Cônsul Assaf Trad, 4796 - Parque dos Novos Estados, Campo Grande",-20.3976754,-54.5589528,Campo Grande
+Pátio Central Shopping,"R. Mal. Rondon, 1380 - Centro, Campo Grande",-20.4609266,-54.6183691,Campo Grande
+Shopping Estação,"Av. Afonso Pena, 1736 - Centro, Campo Grande",-20.4654614,-54.6196569,Campo Grande
+Centro Comercial Damha Mall,"R. Marquês de Pombal, 2886 - Tiradentes, Campo Grande",-20.4837316,-54.5562517,Campo Grande
+Shopping Norte Sul,"R. Santa Adélia, 2 - Cohafama, Campo Grande",-20.477221,-54.6255427,Campo Grande
+Center shopping D Goya,"Av. Min. João Arinos, 365 - B - Chácara Cachoeira, Campo Grande",-20.4699793,-54.5811852,Campo Grande
+Shopping Igarassu,"PE-035, 482 - Centro, Igarassu",-7.8275817,-34.909406,Jaboatão dos Guararapes
+Boulevard Paulista Shopping,"R. da Mangueira, 710 - Centro, Paulista",-7.940082800000001,-34.8830587,Jaboatão dos Guararapes
+Shopping Carpina,"PE-041, KM 02 - Bairro Novo, Carpina",-7.835739500000001,-35.2260403,Jaboatão dos Guararapes
+CWK GARDEN MALL,"Av. Mal. Mascarenhas de Morais, 2885 - Imbiribeira, Recife",-8.104771999999999,-34.9105582,Jaboatão dos Guararapes
+Shopping Parnamirim,"R. João Tude de Melo, 77 - Parnamirim, Recife",-8.0356076,-34.9086817,Jaboatão dos Guararapes
+Vale Sul Shopping,"Av. Andrômeda, 227 - Jardim Satélite, São José dos Campos",-23.2166661,-45.8921911,São José dos Campos
+CenterVale Shopping,"Av. Dep. Benedito Matarazzo, 9403 - Jardim Oswaldo Cruz, São José dos Campos",-23.1997222,-45.8813889,São José dos Campos
+Mogi Shopping,"Av. Ver. Narciso Yague Guimarães, 1001 - Jardim Armenia, Mogi das Cruzes",-23.5157811,-46.1797389,São José dos Campos
+Suzano Shopping,"R. Sete de Setembro, 555 - Parque Suzano, Suzano",-23.5427727,-46.3176969,São José dos Campos
+Shopping Jardim Oriente,"R. Andorra, 500 - Jardim America, São José dos Campos",-23.237639,-45.8978927,São José dos Campos
+Shopping Taubate,"Av. Charles Schnneider, 1700 - Vila Costa, Taubaté",-23.0242543,-45.5818093,São José dos Campos
+Colinas Shopping,"Av. São João, 2200 - Jardim das Colinas, São José dos Campos",-23.2037965,-45.9087424,São José dos Campos
+Itaquá Park Shopping,"Estr. Mun. do Mandi, 1205 - Jardim Adriane, Itaquaquecetuba",-23.4752918,-46.3261929,São José dos Campos
+Shopping Centro,"R. Rubião Júnior, 84 - Centro, São José dos Campos",-23.1844778,-45.8858111,São José dos Campos
+Via Vale Garden Shopping,"Av. Dom Pedro I, 7181 - Res. Estoril, Taubaté",-23.0531345,-45.6047813,São José dos Campos
+Aquarius Open Mall,"Av. Comendador Vicente de Paulo Penido, 373 - Parque Res. Aquarius, São José dos Campos",-23.2138642,-45.9014677,São José dos Campos
+Caraguá Praia Shopping,"Av. Dr. Arthur da Costa Filho, 937 - Centro, Caraguatatuba",-23.6241226,-45.41056409999999,São José dos Campos
+Mont Mall Shopping,"R. Rubião Júnior, 294 - Centro, São José dos Campos",-23.1839059,-45.88372270000001,São José dos Campos
+Centro Mall,"Av. Monte Verde, 947-801 - Monte Verde, Camanducaia",-22.8630019,-46.03810900000001,São José dos Campos
+Shopping Pátio Pinda,"R. Alcides Ramos Nogueira, 650 - Nossa Sra. do Perpetuo Socorro, Pindamonhangaba",-22.9468901,-45.48118849999999,São José dos Campos
+Faro Calçadão Shopping,"R. Sebastião Humel, 268 - Centro, São José dos Campos",-23.1812221,-45.8854655,São José dos Campos
+Jacareí Shopping Center,"R. Olímpio Catão, 500 - Centro, Jacareí",-23.3042226,-45.96265990000001,São José dos Campos
+Shopping Pateo Itaquá,"Av. Italo Adami, 1809 - Morro Branco, Itaquaquecetuba",-23.4963143,-46.3484357,São José dos Campos
+Center Shopping Uberlândia,"Av. João Naves de Ávila, 1331 - Tibery, Uberlândia",-18.9106626,-48.2606952,Uberlândia
+Uberlândia Shopping,"Av. Paulo Gracindo, 15 - Morada da Colina, Uberlândia",-18.9573769,-48.27777510000001,Uberlândia
+Shopping Village Altamira,"Av. Nicomedes Alves dos Santos, 1127 - Altamira, Uberlândia",-18.9329298,-48.2756793,Uberlândia
+Pratic Shopping,"Av. João Pessoa, 120 - Centro, Uberlândia",-18.9140517,-48.2758127,Uberlândia
+Umuarama Mall,"Av. Floriano Peixoto, 5237 - Alto Umuarama, Uberlândia",-18.8823555,-48.250544,Uberlândia
+VILLA MACAÚBA MALL,"R. Aristides Fernandes Morais, 495 - Alvorada, Uberlândia",-18.9189803,-48.1974256,Uberlândia
+Griff Shopping,"Av. Rondon Pacheco, 2300 - Saraiva, Uberlândia",-18.9257595,-48.2722874,Uberlândia
+Paizódromo Shopping Center,"Av. Rondon Pacheco, 4600 - Tibery, Uberlândia",-18.908371,-48.261439,Uberlândia
+Galeria Jacarandas - Shopping Park,"Av. Nicomedes Alves dos Santos, 7200 - Shopping Park, Uberlândia",-18.9791915,-48.2742833,Uberlândia
+Shopping Mall,"Av. dos Vinhedos, 50 - Jardim Karaíba, Uberlândia",-18.9525425,-48.270001,Uberlândia
+Agro Shopping • Uberlândia,"Av. Rui de Castro Santos, 1991 - Grand Ville, Uberlândia",-18.9056288,-48.2199754,Uberlândia
+Center Mall [EM BREVE],"Av. José Fonseca e Sílva - Luizote de Freitas, Uberlândia",-18.9153102,-48.3284447,Uberlândia
+Shopping Central Park,"Av. Ivo Mário Isaac Pires, 4040 - Tijuco Preto, Vargem Grande Paulista",-23.6428329,-46.9915545,Sorocaba
+Sorocaba Shopping,"Av. Dr. Afonso Vergueiro, 1700 - Centro, Sorocaba",-23.496609,-47.4675483,Sorocaba
+Shopping Cidade Sorocaba,"Av. Itavuvu, 3373 - Jardim Santa Cecilia, Sorocaba",-23.456759,-47.483232,Sorocaba
+Polo Shopping Indaiatuba,"Alameda Filtros Mann, 670 - Jardim Tropical, Indaiatuba",-23.1163137,-47.2194738,Sorocaba
+Shopping Iguatemi Esplanada,"Avenida Professora Izoraida Marques Peres - Parque Campolim, Sorocaba",-23.5336612,-47.4634434,Sorocaba
+Pátio Cianê Shopping,"Av. Dr. Afonso Vergueiro, 823 - Centro, Sorocaba",-23.4964167,-47.46087499999999,Sorocaba
+Shopping Jaraguá Indaiatuba,"R. Quinze de Novembro, 1200 - Centro, Indaiatuba",-23.0828488,-47.21297029999999,Sorocaba
+Shopping Porto Miller Boulevard,"R. Ademar de Barros, 345, Porto Feliz",-23.2137618,-47.5225939,Sorocaba
+Road Shopping - Rodovia Castello Branco,"Rod. Pres. Castello Branco, Km 72 - City Castello, Itu",-23.4083691,-47.2779159,Sorocaba
+Shopping Olga,"Av. São Paulo, 4525 - Jardim Bandeirantes, Sorocaba",-23.4918269,-47.4115934,Sorocaba
+Shopping SerrAzul,"Estrada Municipal Joaquim Bueno Neto, 9999 - Rio Abaixo, Itupeva",-23.1062015,-47.0089277,Sorocaba
+Shopping 13 de Maio,"R. Treze de Maio, 192 - Centro, Indaiatuba",-23.0907736,-47.2140864,Sorocaba
+Shopping Villa D'ouro,"R. Cel. Eugênio Motta, 521 - Vila Ferriello, Boituva",-23.2833675,-47.67025959999999,Sorocaba
+Shopping Center São Roque,"R. Prof. Germano Negrini, 150 - Centro, São Roque",-23.5286729,-47.1360464,Sorocaba
+Ribeirão Shopping,"Av. Cel. Fernando Ferreira Leite, 1540 - Jardim California, Ribeirão Preto",-21.2127492,-47.8159431,Ribeirão Preto
+Novo Shopping Center Ribeirão Preto,"Av. Pres. Kennedy, 1500 - Ribeirânia, Ribeirão Preto",-21.2071556,-47.7679492,Ribeirão Preto
+Shopping Iguatemi Ribeirão Preto,"Av. Luiz Eduardo Toledo Prado, 900 - Vila do Golfe, Ribeirão Preto",-21.2258911,-47.8345102,Ribeirão Preto
+Shopping Santa Úrsula,"R. São José, 933 - Centro, Ribeirão Preto",-21.1824996,-47.80811869999999,Ribeirão Preto
+São Bento Mall,"Rua Capitão Salomão, 2306 - Campos Elísios, Ribeirão Preto",-21.1729943,-47.7968082,Ribeirão Preto
+Garden Shopping Center,"Av. Pres. Kennedy, 1500 - Ribeirânia, Ribeirão Preto",-21.207662,-47.7673145,Ribeirão Preto
+Mega shopping do bràs -sertãozinho,"Av. Nossa Sra. Aparecida, 1319 - Conj. Hab. Lourenco Domenici, Sertãozinho",-21.1393735,-48.0053379,Ribeirão Preto
+the Ribeirao Shopping Events Center,"Av. Braz Olaia Acosta, 727 - Jardim California, Ribeirão Preto",-21.2118474,-47.8181502,Ribeirão Preto
+People Like Business Shopping,"R. Cravinhos, 429 - Jardim Paulistano, Ribeirão Preto",-21.1806568,-47.7899843,Ribeirão Preto
+Shopping da Moda,"R. Voluntário Otto Gomes Martins, 1587 - Centro, Sertãozinho",-21.1374948,-47.98867190000001,Ribeirão Preto
+Pantanal Shopping,"Av. Historiador Rubens de Mendonça, 3300 - Jardim Aclimacao, Cuiabá",-15.5755796,-56.0724411,Cuiabá
+Shopping Estação Cuiabá,"Av. Miguel Sutil, 9300 - Santa Rosa, Cuiabá",-15.5901722,-56.1206927,Cuiabá
+Shopping 3 Américas,"Av. Brasília, 1461 - Jardim das Américas, Cuiabá",-15.612374,-56.073727,Cuiabá
+Goiabeiras Shopping,"Av. Jose Monteiro de Figueiredo, 500 - Duque de Caxias, Cuiabá",-15.5879587,-56.1120854,Cuiabá
+Várzea Grande Shopping,"Av. Presidente Artur Bernardes, 43 - Centro Sul, Várzea Grande",-15.652796,-56.1228402,Cuiabá
+Shopping Popular,"Av. Manoel José de Arruda, 207 - Dom Aquino, Cuiabá",-15.6132736,-56.10165079999999,Cuiabá
+Shopping 13,"Rua 13 de Junho, 503 - Centro, Cuiabá",-15.6016295,-56.0981949,Cuiabá
+Shopping Orla do Porto Cuiabá,"Rua 13 de Junho, 2345 - Porto, Cuiabá",-15.6149307,-56.1094352,Cuiabá
+Shopping Popular Várzea Grande,"Av. Couto Magalhães - Centro Norte, Várzea Grande",-15.6472624,-56.1323932,Cuiabá
+CPA Shopping,"R. São José do Rio Preto, 484 - Cpa II, Cuiabá",-15.5577905,-56.0510123,Cuiabá
+Estaçao Bispo Shopping,"Av. Tenente Coronel Duarte, 469 - Dom Aquino, Cuiabá",-15.5990244,-56.0946231,Cuiabá
+Mini shopping da 13,"Rua 13 de Junho, 266 - Centro, Cuiabá",-15.5999107,-56.0969394,Cuiabá
+Pop Shopping Popular,"I, 666, Avenida 30 - Jardim Industriario, Cuiabá",-15.6458753,-55.97957169999999,Cuiabá
+Shopping Jardins,"Av. Ministro Geraldo Barreto Sobral, 215 - Jardins, Aracaju",-10.9432674,-37.059823,Aracaju
+RioMar Shopping Aracaju,"Av. Delmiro Gouveia, 400 - Coroa do Meio, Aracaju",-10.9447321,-37.0475752,Aracaju
+Alameda Mall,"Av. Gen. Djenal Tavares de Queroz, 263-313 - Luzia, Aracaju",-10.9313919,-37.0614964,Aracaju
+Aracaju Parque Shopping,"Av. João Rodrigues, 42 - Industrial, Aracaju",-10.9009986,-37.0501126,Aracaju
+Shopping Aracaju,"R. Apulcro Mota, 630 - Centro, Aracaju",-10.9071845,-37.0502712,Aracaju
+Shopping Prêmio,"Av. Moacir Oliveira, S/N - Marcos Freire I, Nossa Sra. do Socorro",-10.8510302,-37.0779354,Aracaju
+Center Treze Mall,"R. Ananias Azevedo, 184 - 13 de Julho, Aracaju",-10.9329682,-37.0520954,Aracaju
+Shopping São Braz,"Av. Manoel Pedro dos Santos Neto, S/N - São Braz, Nossa Sra. do Socorro",-10.8535671,-37.0546861,Aracaju
+Shopping Peixoto,"Av. José Amâncio Bpo., 5419 - Miguel Teles de Mendonça, Itabaiana",-10.7084526,-37.4252087,Aracaju
+L'Avenue Mall,"Av. Jorge Amado, 1466 - Jardins, Aracaju",-10.9421843,-37.0535673,Aracaju
+Ellevado Mall,"Av. Hermes Fontes, 1381 - Salgado Filho, Aracaju",-10.9299739,-37.0604921,Aracaju
+Shopping Aracaju,"R. João Pessoa, 607 - Centro, Aracaju",-10.9072194,-37.0493281,Aracaju
+Village Mall Atalaia,"Rua Deputado Clóvis Rollemberg, 227 - Atalaia, Aracaju",-10.9965846,-37.0569867,Aracaju
+Shopping encontro,"R. Itabaianinha, 157 - Centro, Aracaju",-10.9111979,-37.0505569,Aracaju
+Shopping Farol,"Av. Murilo Dantas, 881 - Farolândia, Aracaju",-10.9710303,-37.0559414,Aracaju
+Shopping Praia Sul,"Av. Melício Machado - Aruana, Aracaju",-11.0186345,-37.0843016,Aracaju
+Shopping Box Tabajara,"com - Rua São Cristóvão, R. Itabaianinha - Centro, Aracaju",-10.9106573,-37.0506839,Aracaju
+Shopping Box,"Av. Mamede Paes Mendonça, 41 - Centro, Aracaju",-10.9079101,-37.05270900000001,Aracaju
+Shopping Avenida,"Ferreira de Cerqueira - Av. Nóide Cerqueira, 5710 - Sim, Feira de Santana",-12.2559943,-38.9209742,Feira de Santana
+Shopping Millenium,"Av. Francisco Fraga Maia, s/n - Mangabeira, Feira de Santana",-12.2254868,-38.9519157,Feira de Santana
+Viva Artemia Mall,"Av. Artêmia Pires Freitas - Santo Antônio dos Prazeres, Feira de Santana",-12.2455749,-38.9075719,Feira de Santana
+Shopping Garden Artemia,"Av. Artêmia Pires Freitas, 6850 - Sim, Feira de Santana",-12.2462214,-38.9086676,Feira de Santana
+Papagaio Mall,"R. Rubens Francisco Dias, S/N - Papagaio, Feira de Santana",-12.201738,-38.9439502,Feira de Santana
+SHOPPING CENTRO OESTE NORDESTE,"Praça República, Nº 159 - Centro, Feira de Santana",-12.2610464,-38.9676126,Feira de Santana
+Shopping Jomafa,"Rua Conselheiro Franco, 268 - Centro, Feira de Santana",-12.2555317,-38.967639,Feira de Santana
+Shopping 7 Mil,"Centro, Feira de Santana",-12.2597489,-38.9678895,Feira de Santana
+Feiraguay Shopping Popular,"Praça Pres. Médici, 92 - Centro, Feira de Santana",-12.2599331,-38.968171,Feira de Santana
+Shopping Popular da Marechal,"R. Mal. Deodoro, 429 - Centro, Feira de Santana",-12.2590948,-38.966723,Feira de Santana
+Shopping das Fábricas,"Av. Getúlio Vargas, 330 - Centro, Feira de Santana",-12.255049,-38.9621889,Feira de Santana
+Shopping Center Candeias,"Via Sul, 58 - Pitanga, Candeias",-12.6667624,-38.5451641,Feira de Santana
+Garten Shopping,"Av. Rolf Wiest, 333 - Bom Retiro, Joinville",-26.2524191,-48.8527069,Joinville
+Shopping Cidade das Flores,"R. Mário Lobo, 106 - Centro, Joinville",-26.2990123,-48.8484939,Joinville
+Novo Barra Shopping,"Rua paralela à BR-101, R. Valdir Michereff - Tabuleiro, Barra Velha",-26.6537011,-48.6870173,Joinville
+Adidas Sneakers Collect Shopping Muller,"R. Visc. de Taunay, 235 - Centro, Joinville",-26.3036717,-48.84910559999999,Joinville
+Loja Paulistinha Shopping da Barra,"Av. Dom Henrique II, 676 - Barra do Saí, Itapoá",-26.0117904,-48.6060946,Joinville
+SHOPPING GARTEN JOINVILLE,"Av. Rolf Wiest, 333 - Bom Retiro, Joinville",-26.2524191,-48.8527069,Joinville
+Shopping Republica,"Av. República do Líbano, 1463 - St. Oeste, Goiânia",-16.6784364,-49.26697129999999,Aparecida de Goiânia
+Boulevard Shopping Londrina,"Av. Theodoro Victorelli, 150 - Carlota, Londrina",-23.3119604,-51.1471792,Londrina
+Catuaí Londrina Shopping Mall,"Rod. Celso Garcia Cid, 5600 - Palhano 2, Londrina",-23.3425867,-51.1855584,Londrina
+Shopping Centronorte,"Pr. Interventor Manoel Ribas, 135 - Centro, Apucarana",-23.5518269,-51.4643668,Londrina
+Royal Plaza Shopping,"R. Mato Grosso, 310 - Centro, Londrina",-23.3112796,-51.1566851,Londrina
+Aurora Mall,"Av. Ayrton Senna da Silva, 400 - Palhano 1, Londrina",-23.3290075,-51.1778464,Londrina
+Londrina Norte Shopping,"R. Américo Deolindo Garla, 224 - Pacaembu, Londrina",-23.2860573,-51.15220790000001,Londrina
+Tropical Mall,"Av. Pedro Viriato P. de Souza, 100 - Pq Manella, Cambé",-23.2962115,-51.23442259999999,Londrina
+Shopping Quintino,"R. Quintino Bocaiúva, 812 - Conceicao, Londrina",-23.3047943,-51.1685905,Londrina
+Shopping 100,"R. Benjamin Constant, 529 - Centro, Londrina",-23.308837,-51.15564029999999,Londrina
+Shopping Italia,"Av. Inglaterra, 675 - Vila Mesquita, Cambé",-23.2777113,-51.2785306,Londrina
+Shopping Villa Lobos,"R. Santa Catarina, 185 - Centro, Londrina",-23.3118846,-51.155778,Londrina
+Shopping Antares,"R. Jurema, 5 - Antares, Londrina",-23.3156399,-51.1258753,Londrina
+Shopping Imperial,"R. Santa Catarina, 195 - Centro, Londrina",-23.3118831,-51.1556834,Londrina
+Shopping Com Tour,"Av. Tiradentes, 1241 - Jardim Shangri-Lá A, Londrina",-23.3008013,-51.1855219,Londrina
+Shopping Popular,"R. Belo Horizonte, 1134 - Centro, Cambé",-23.2770932,-51.2811083,Londrina
+Independência Shopping,"Av. Presidente Itamar Franco, 3600 - Cascatinha, Juiz de Fora",-21.7809473,-43.3603834,Juiz de Fora
+Shopping Jardim Norte,"Av. Brasil, 6345 - Mariano Procópio, Juiz de Fora",-21.7405643,-43.3706894,Juiz de Fora
+Santa Cruz Shopping,"R. Jarbas de Lery Santos, 1655 - Centro, Juiz de Fora",-21.7563768,-43.3493146,Juiz de Fora
+Mister Shopping,"R. Mr. Moore, 70 - Centro, Juiz de Fora",-21.7593591,-43.3486406,Juiz de Fora
+Alameda Mall,"R. Morais e Castro, 300 - Passos, Juiz de Fora",-21.7762755,-43.3476372,Juiz de Fora
+Shopping Olga Sola,"Praça São Sebastião, 330 - Três Rios",-22.1162281,-43.2099914,Juiz de Fora
+Shopping Américo Silva,"Rua Barão do Rio Branco, 303 - Três Rios",-22.1159297,-43.2103976,Juiz de Fora
+Braz Shopping,"R. Braz Bernardino, 105 - Centro, Juiz de Fora",-21.7633346,-43.3473309,Juiz de Fora
+Benfica Shopping,"Rua Marília, 510, R. Diogo Álvares, 475 - Benfica, Juiz de Fora",-21.6886316,-43.4343402,Juiz de Fora
+Shopping 3 Rios,"R. Dr. Valmir Peçanha, esquina com Rua Duque de Caxias, Centro, - Piracema, Três Rios",-22.1151925,-43.2077754,Juiz de Fora
+Manacá Open Mall,"Rua José Lourenço, 463 - São Pedro, Juiz de Fora",-21.7708935,-43.3812784,Juiz de Fora
+Getúlio Shopping,"Av. Getúlio Vargas, 695 - Centro, Juiz de Fora",-21.7589116,-43.3483351,Juiz de Fora
+Marechal Shopping (Galeria Branca),"R. Marechal Deodoro, 450 - Centro, Juiz de Fora",-21.760128,-43.348538,Juiz de Fora
+Shopping Rio Branco,"Av. Barão do Rio Branco, 1844 - Centro, Juiz de Fora",-21.7581396,-43.350718,Juiz de Fora
+Shopping da Praça,"Praça João Werneck, 56 - Centro, São José do Vale do Rio Preto",-22.1517736,-42.9236935,Juiz de Fora
+Free Shopping Marechal,"R. Marechal Deodoro, 238 - Centro, Juiz de Fora",-21.7607673,-43.3455407,Juiz de Fora
+CenterModa - Shopping das Fábricas,"Av. Carlos Alves, 100 - Centro, São João Nepomuceno",-21.5333197,-43.0148017,Juiz de Fora
+Barra World Shopping & Park,"Av. Alfredo Balthazar da Silveira, 580 - Recreio dos Bandeirantes, Rio de Janeiro",-23.0105461,-43.4426139,Niterói
+Shopping Nova Iguaçu,"Av. Abílio Augusto Távora, 1111 - Luz, Nova Iguaçu",-22.7628932,-43.4651577,São João de Meriti
+Shopping Vila Velha,"Av. Luciano das Neves, 2418 - Centro de Vila Velha, Vila Velha",-20.3520419,-40.2977172,Vila Velha
+Boulevard Shopping Vila Velha,"Rod. do Sol, 5000 - Itaparica, Vila Velha",-20.3925611,-40.3180631,Vila Velha
+Shopping Mestre Álvaro,"Av. João Palácio, 300 - Eurico Salles, Serra",-20.2401833,-40.2748556,Vila Velha
+Shopping Vitória,"Av. Américo Buaiz, 200 - Enseada do Suá, Vitória",-20.312346,-40.2880496,Vila Velha
+Shopping Montserrat,"Av. Eldes Scherrer Souza, 2162 - Colina de Laranjeiras, Serra",-20.1931374,-40.2663088,Vila Velha
+Shopping Praia da Costa,"Shopping - Av. Dr. Olivio Lira, 353 - Nº 353 - Praia da Costa, Vila Velha",-20.3420856,-40.2889761,Vila Velha
+Shopping Moxuara,"Av. Mário Gurgel, 5353 - São Francisco, Cariacica",-20.3432012,-40.4002819,Vila Velha
+Masterplace Mall,"Av. Nossa Sra. da Penha, 2150 - Barro Vermelho, Vitória",-20.2939987,-40.3012771,Vila Velha
+Adventure Mall Boutique,"R. José Pena Medina, 216 - Praia da Costa, Vila Velha",-20.3411539,-40.28572339999999,Vila Velha
+Shopping Laranjeiras,"Av. Primeira Avenida, 231 - Parque Res. Laranjeiras, Serra",-20.1969921,-40.2550307,Vila Velha
+Shopping Jardins,"R. Carlos Eduardo Monteiro de Lemos, 262 - Jardim da Penha, Vitória",-20.2890994,-40.2930816,Vila Velha
+Shopping Day by Day,"R. Elesbão Linhares, 15 - Praia do Canto, Vitória",-20.3011502,-40.2955046,Vila Velha
+Shopping Victoria Mall,"Condomínio do Victoria Mall - R. Aristóbulo Barbosa Leão, 500 - Jardim da Penha, Vitória",-20.2794475,-40.2932713,Vila Velha
+Shopping Top Life,"Av. Brasil, 2703 - São Diogo II, Serra",-20.2231788,-40.2606285,Vila Velha
+Shopping da Terra,"Av. Jerônimo Monteiro, 1690 - Centro de Vila Velha, Vila Velha",-20.3349736,-40.2978137,Vila Velha
+Plaza Shopping Jardim Camburi,"R. Italina Pereira Mota, 440 - Jardim Camburi, Vitória",-20.257196,-40.2668152,Serra
+Centro da Praia Shopping,"Av. Nossa Sra. da Penha, 570 - Praia do Canto, Vitória",-20.3058438,-40.296448,Vila Velha
+SHOPPING BOULEVARD DA PRAIA,"Av. Nossa Sra. da Penha, 356 - Praia do Canto, Vitória",-20.3079567,-40.2956314,Vila Velha
+Shopping Portal da Glória,"Av. Jerônimo Monteiro, 825 Shopping - Centro de Vila Velha, Vila Velha",-20.336255,-40.3059636,Vila Velha
+Bourbon Shopping Mall,"Av. Rio Branco, 425 - São Pelegrino, Caxias do Sul",-29.1711609,-51.19091580000001,Caxias do Sul
+VillagioCaxias Shopping,"Rodovia RSC 453, 2780 - Desvio Rizzo, Caxias do Sul",-29.1760593,-51.2203437,Caxias do Sul
+Shopping Villagio Caxias,"Av. Therezinha Pauletti Sanvitto, 367 - Desvio Rizzo, Caxias do Sul",-29.1762291,-51.2191389,Caxias do Sul
+Shopping Bento,"R. Mal. Deodoro, 238 - Centro, Bento Gonçalves",-29.1653212,-51.5170105,Caxias do Sul
+Caxias Plaza Shopping,"Av. Júlio de Castilhos, 1914 - Centro, Caxias do Sul",-29.16798259999999,-51.181013,Caxias do Sul
+Prataviera Shopping Mall,"Av. Júlio de Castilhos, 2030 - Centro, Caxias do Sul",-29.1680556,-51.1822222,Caxias do Sul
+L’América Shopping Center,"R. 13 de Maio, 877 - São Bento, Bento Gonçalves",-29.1712646,-51.5120277,Caxias do Sul
+Alles Blau Shopping,"Av. Pres. Tancredo de Almeida Neves, 5600 - Casa de Pedra, Igrejinha",-29.6030277,-50.8034395,Caxias do Sul
+Shopping Omar Valentini,"R. Cel. Pena de Moraes, 515 - Centro, Farroupilha",-29.2285245,-51.34685169999999,Caxias do Sul
+Golden Center Shopping das Fábricas,"ERS122 - Industrial, Farroupilha",-29.2247448,-51.3321604,Caxias do Sul
+Macapá Shopping,"R. Leopoldo Machado, 2334 - Trem, Macapá",0.0311847,-51.0630388,Macapá
+Amapá Garden Shopping,"Rod. Josmar Chaves Pinto, 2141 - Km 2 - Universidade, Macapá",-0.008665299999999999,-51.0806857,Macapá
+Shopping Nações Unidas,"R. São José, 2067 - Central, Macapá",0.034707,-51.05182259999999,Macapá
+Villa Nova Shopping,"Av. Pres. Vargas, 341 - Central, Macapá",0.0372866,-51.0526536,Macapá
+Shopping da Nações Unidas,"Tv. Abraão Perez, 1125 - Central, Macapá",0.0361638,-51.0502882,Macapá
+Shopping Popular,"R. São José, 2553 - Centro, Macapá",0.0303368,-51.0523818,Macapá
+Rio Plaza Shopping,"R. Cândido Mendes, 1025 - Central, Macapá",0.03704259999999999,-51.050462,Macapá
+New Shopping,"R. Leopoldo Machado, 2183 - Trem, Macapá",0.0326944,-51.06230559999999,Macapá
+Espacolaser Shopping Rio Plaza,"R. Independência - Central, Macapá",0.0368338,-51.0499302,Macapá
+Beiramar Shopping,"R. Bocaiúva, 2468 - Centro, Florianópolis",-27.5848902,-48.5450349,Florianópolis
+Floripa Shopping,"SC-401, 3116 - Saco Grande, Florianópolis",-27.5539395,-48.49852869999999,Florianópolis
+Shopping ViaCatarina,"Av. Atílio Pedro Pagani, 270 - Passa Vinte, Palhoça",-27.6420548,-48.6713825,Florianópolis
+Villa Romana Shopping,"Av. Me. Benvenuta, 687 - Santa Monica, Florianópolis",-27.5901143,-48.51503229999999,Florianópolis
+Continente Shopping,"Esquina Rod - Rodovia BR 101, SC-281, KM 210 - Distrito Industrial, São José",-27.6151933,-48.6450436,Florianópolis
+Shopping Itaguaçu,"R. Gerôncio Thives, 1079 - Barreiros, São José",-27.5852384,-48.6141452,Florianópolis
+Multi Open Shopping,"Rodovia Dr. Antônio Luiz Moura Gonzaga, 3339 - Rio Tavares, Florianópolis",-27.6577356,-48.4857456,Florianópolis
+Shopping Via Lagoa,"R. Henrique Vera do Nascimento, 240 - Lagoa da Conceição, Florianópolis",-27.6049366,-48.466217,Florianópolis
+Shopping Oka Floripa,"SC-405, 4397 - Campeche, Florianópolis",-27.6997758,-48.5107931,Florianópolis
+SpotMarkt Mall,"R. João Pio Duarte Silva, 1630 - Córrego Grande, Florianópolis",-27.6009834,-48.5017552,Florianópolis
+Open Shopping Ingleses,"Rod. João Gualberto Soares, 56 - Ingleses do Rio Vermelho, Florianópolis",-27.4396434,-48.4025533,Florianópolis
+Park Mall Palhoça,"BR-101, km 212 - Passa Vinte, Palhoça",-27.6363773,-48.6658093,Florianópolis
+Shopping Camelão Palhoça,"R. Prefeito Reinoldo Alves, BR-101, km 213 Marginal, 41 - Passa Vinte, Palhoça",-27.6398312,-48.667704,Florianópolis
+Shopping Max&Flora Center,"R. Lauro Linhares, 2055 - Trindade, Florianópolis",-27.5962282,-48.5202794,Florianópolis
+Shopping Camelão São José,"R. Wanderlei Júnior, 256 - Campinas, São José",-27.5986111,-48.60805560000001,Florianópolis
+Shopping Punta Blu,"Av. Ver. Manoel dos Santos, 1144 - Centro, Bombinhas",-27.1486434,-48.49175839999999,Florianópolis
+Shopping Guarapari,"Av. Dr. Roberto Calmon, 140 - Centro, Guarapari",-20.6702986,-40.4985482,Vila Velha
+Shopping Jacaraípe,"Av. Abido Saad, 636 - Parque Jacaraipe, Serra",-20.1508582,-40.1859867,Vila Velha
+Miramar Shopping,"R. Euclydes da Cunha, 21 - Gonzaga, Santos",-23.9659715,-46.3345978,São Vicente
+Shopping VillaLobos,"Av. Dra. Ruth Cardoso, 4777 - Jardim Universidade Pinheiros, São Paulo",-23.5509289,-46.7219327,São Vicente
+Praiamar Shopping,"R. Alexandre Martins, 80 - Aparecida, Santos",-23.9768919,-46.3100835,São Vicente
