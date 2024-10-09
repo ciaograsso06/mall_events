@@ -29,3 +29,15 @@ Antes de rodar o script, certifique-se de que você tem:
 
    ```bash
    pip install -r requirements.txt
+   ```
+
+  ```bash
+   git clone https://github.com/youruserhere/mall_events.git
+   cd mall_events
+  ```
+
+4. Execute seu script com o comando:
+   ```bash
+   python mall_mapping.py
+   ```
+   
