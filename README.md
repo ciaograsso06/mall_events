@@ -32,7 +32,7 @@ Antes de rodar o script, certifique-se de que você tem:
    ```
 
   ```bash
-   git clone [https://github.com/youruserhere/mall_events.git](https://github.com/ciaograsso06/mall_events.git)
+   git clone https://github.com/ciaograsso06/mall_events.git
    cd mall_events
   ```
 
